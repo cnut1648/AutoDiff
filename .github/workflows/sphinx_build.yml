@@ -26,7 +26,7 @@ jobs:
       run: |
         python3 -m pytest --cov-report=html:docs/source/_static --cov=AutoDiff test/
     - name: Build and Commit
-      uses: cnut1648/sphinx-pages@v2
+      uses: sphinx-notes/pages@v2
       with:
         documentation_path: './docs/source'
     - name: Push changes
