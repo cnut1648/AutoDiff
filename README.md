@@ -1,7 +1,7 @@
 # Team01
 
-[![.github/workflows/test.yml](https://code.harvard.edu/CS107/team01/actions/workflows/test.yml/badge.svg)](https://code.harvard.edu/CS107/team01/actions/workflows/test.yml)
-[![.github/workflows/coverage.yml](https://code.harvard.edu/CS107/team01/actions/workflows/coverage.yml/badge.svg)](https://code.harvard.edu/CS107/team01/actions/workflows/coverage.yml)
+[![.github/workflows/test.yml](https://github.com/cnut1648/AutoDiff/actions/workflows/test.yml/badge.svg)](https://github.com/cnut1648/AutoDiff/actions/workflows/test.yml)
+[![.github/workflows/coverage.yml](https://github.com/cnut1648/AutoDiff/actions/workflows/coverage.yml/badge.svg)](https://github.com/cnut1648/AutoDiff/actions/workflows/coverage.yml)
 
 The full documentation with examples is [here](https://code.harvard.edu/pages/CS107/team01/).
 
